@@ -10,7 +10,6 @@
 ## 👩‍💻 About Me
 
 - 💼 Java Full Stack Developer with 2.5+ years of experience
-- 🌱 Currently learning **Microservices**
 - 💻 Experienced in developing full-stack applications using Java and Angular
 - 🛠️ Strong interest in Backend Development and Software Engineering
 - 🎯 Goal: Building scalable and efficient full-stack applications while continuously improving my skills.
@@ -64,14 +63,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anusha9591&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha9591&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -96,5 +88,5 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 
 </p>
