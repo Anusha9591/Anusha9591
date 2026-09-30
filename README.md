@@ -83,6 +83,10 @@
 <a href="mailto:anushasomaraddiwork@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="35" />
 </a>
+
+<a href="https://leetcode.com/u/Anusha_2_0/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35" />
+</a>
 </p>
 
 ---
